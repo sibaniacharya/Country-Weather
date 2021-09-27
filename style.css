@@ -1,0 +1,23 @@
+.card-body,button{
+    background-image: linear-gradient(white,black);
+    }
+    
+    body{
+        background-color: black;
+        font-family: 'Yaldevi', sans-serif;
+    }
+    .btn-primary{
+    border-color: white;
+    }
+    .card-body{
+        text-align:center;
+        
+    }
+    .card-title{
+        margin-bottom: 0px;
+    
+    }
+    .pop-up{
+    background-image: linear-gradient(black);
+    
+    }
